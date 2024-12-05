@@ -1,6 +1,10 @@
-# Lista_de_Compras
-Pequeno App para listar compras a serem feitas
+# React + Vite
 
-Foi utilizado React.js, node.js e Vite para o desenvolvimento.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Primeiro foi criado um ambiente Vite e instalado todas as dependências do React. Depois, começei a desenvolver aprender e desenvolver vendo tutoriais, foruns e afins. Foi utilizado styled-components para estilzação do elementos.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Feito para aprender mais sobre o React.js
